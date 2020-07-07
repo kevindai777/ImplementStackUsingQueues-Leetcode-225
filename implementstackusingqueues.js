@@ -1,8 +1,8 @@
 //Objective is to design a stack using queues. We implement 4 methods: 'push', 'pop', 'peek', 'empty'
-//'Push' will push a value into the queue
-//'Pop' will pop a value out of the queue
-//'Peek' will return the top value in the queue
-//'Empty' will return if the queue is empty or not.
+//'Push' will push a value into the stack
+//'Pop' will pop a value out of the stack
+//'Peek' will return the top value in the qstack
+//'Empty' will return if the stack is empty or not.
 
 
 //Design of a stack using two queues
